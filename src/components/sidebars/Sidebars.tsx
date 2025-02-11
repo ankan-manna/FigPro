@@ -117,7 +117,7 @@ export default function Sidebars({
                 <img
                   src="/figma-logo.svg"
                   alt="Figma logo"
-                  className="h-[18px w-[18px]"
+                  className="h-[50px w-[50px]"
                 />
               </Link>
               <PiSidebarSimpleThin
